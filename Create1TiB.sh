@@ -1,1 +1,1 @@
-truncate-s 1TiB 1TB.bin
+truncate -s 1TiB 1TB.bin
